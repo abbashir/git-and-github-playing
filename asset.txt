@@ -1,1 +1,2 @@
 a = 3
+b = this new line from remote
