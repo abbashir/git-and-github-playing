@@ -9,7 +9,7 @@
 <code>git status </code>
 
 ### Add on stage
-<code>git add –all </code>
+<code>git add –all </code> <br>
 <code>git add -A </code>
 <code>git add . </code>
 <code>git add * (except deleted file) </code>
