@@ -31,13 +31,13 @@
 <code> git rm file_name -f (force delete) </code>
 <code> git rm –cached file_name </code>
 
-###Branch
+### Branch
 <code>git branch (list)</code>
 <code>git branch Branch_name (create branch) </code>
 <code>git checkout Branch_name (branch Switches) </code>
 <code>git merge master -m "marging on master" (get all updated data from master branch) </code>
 
-###Branch
+### Push
 <code>git push origin Branch_name</code>
 
 <code> git branch --set-upstream-to=origin/development</code>
